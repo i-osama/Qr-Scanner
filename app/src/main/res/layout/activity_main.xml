@@ -8,51 +8,6 @@
     android:background="#0A000000"
     tools:context=".MainActivity">
 
-<!--    <LinearLayout-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:orientation="vertical">-->
-
-<!--        <com.budiyev.android.codescanner.CodeScannerView-->
-<!--            android:id="@+id/myScanner"-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="@dimen/_500sdp"-->
-<!--            app:layout_constraintTop_toTopOf="parent"-->
-<!--            app:layout_constraintStart_toStartOf="parent"-->
-<!--            app:layout_constraintEnd_toEndOf="parent"-->
-
-<!--            app:flashButtonVisible="true"-->
-<!--            app:flashButtonColor="@color/black"-->
-<!--            app:autoFocusButtonVisible="true"-->
-<!--            app:autoFocusButtonColor="@color/black"-->
-<!--            app:maskColor="#7E403F3F"/>-->
-
-<!--        <ImageView-->
-<!--            android:id="@+id/copyOption"-->
-<!--            android:layout_width="@dimen/_30sdp"-->
-<!--            android:layout_height="@dimen/_30sdp"-->
-<!--            android:src="@drawable/baseline_content_copy_24"-->
-<!--            android:layout_gravity="end"-->
-<!--            android:layout_margin="@dimen/_10sdp"/>-->
-
-<!--        <TextView-->
-<!--            android:id="@+id/outputText"-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:layout_margin="@dimen/_8sdp"-->
-<!--            android:background="#70787575"-->
-<!--            android:fontFamily="@font/roboto_mono"-->
-<!--            android:padding="@dimen/_10sdp"-->
-<!--            android:text="This is my testignnaigkia fidnaigai giadfidfiafhif eaifiafhiefa"-->
-<!--            android:textColor="@color/black"-->
-<!--            android:textSize="@dimen/_16sdp" />-->
-<!--    </LinearLayout>-->
-
-<!--    <RelativeLayout-->
-<!--        xmlns:android="http://schemas.android.com/apk/res/android"-->
-<!--        xmlns:app="http://schemas.android.com/apk/res-auto"-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="match_parent">-->
     <RelativeLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:app="http://schemas.android.com/apk/res-auto"
