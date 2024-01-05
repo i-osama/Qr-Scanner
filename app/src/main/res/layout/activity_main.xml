@@ -59,6 +59,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
+<!--        app:flashButtonVisible="true"-->
         <com.budiyev.android.codescanner.CodeScannerView
             android:id="@+id/myScanner"
             android:layout_width="match_parent"
@@ -66,7 +67,6 @@
             android:layout_alignParentTop="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentEnd="true"
-            app:flashButtonVisible="true"
             app:flashButtonColor="@color/black"
             app:autoFocusButtonVisible="true"
             app:autoFocusButtonColor="@color/black"
@@ -97,7 +97,7 @@
         android:paddingTop="@dimen/_30sdp"
         android:paddingEnd="@dimen/_10sdp"
         android:paddingBottom="@dimen/_10sdp"
-        android:text="This is my testing text and hijibiahdik fidriihaier e reeeadfad hjhuihhuk hyuhk ygkfjgk jy"
+        android:text=""
         android:textColor="@color/black"
         android:textSize="@dimen/_12sdp" />
     </RelativeLayout>
